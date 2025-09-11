@@ -1,0 +1,28 @@
+Book
+
+bookId
+
+bookTitle
+
+author
+
+publishedDate (optional)
+
+coverImage (optional)
+
+chapters
+
+    Chapter
+    - chapterNumber
+    - chapterTitle (optional)
+    - sections
+
+        Section
+        - sectionNumber
+        - chunkIndex
+        - position
+        - content
+        - type
+        - characters
+        - definitions
+        - tags
