@@ -9,5 +9,11 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "arangojs": "^10.1.2",
+    "compromise": "^14.14.4",
+    "compromise-dates": "^3.7.1",
+    "natural": "^8.1.0"
+  }
 }
